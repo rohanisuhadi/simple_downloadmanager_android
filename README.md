@@ -6,4 +6,4 @@ TO DO
 3. Get status and location file Download Finish
 4. Move file
 
-
+But not display progressbar on view
